@@ -7,7 +7,7 @@
         <HorizontalStackLayout
             BackgroundColor="CornflowerBlue">
             <Image
-                Source="Sunshine.png"
+                Source="sunshine.png"
                 HeightRequest="50"
                 WidthRequest="100"
                 />
@@ -31,7 +31,7 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Orientation="Horizontal">
-                            <Image Source="ViniloLogo.jpg"
+                            <Image Source="viniloLogo.jpg"
                                    HeightRequest="50"
                                    WidthRequest="100"/>
                             <StackLayout Orientation="Vertical">
