@@ -5,9 +5,9 @@
              Title="ProductoPage">
     <VerticalStackLayout>
         <HorizontalStackLayout
-            BackgroundColor="DarkBlue">
+            BackgroundColor="CornflowerBlue">
             <Image
-                Source="dotnet_bot.png"
+                Source="Sunshine.png"
                 HeightRequest="50"
                 WidthRequest="100"
                 />
@@ -31,7 +31,7 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Orientation="Horizontal">
-                            <Image Source="dotnet_bot.png"
+                            <Image Source="ViniloLogo.jpg"
                                    HeightRequest="50"
                                    WidthRequest="100"/>
                             <StackLayout Orientation="Vertical">

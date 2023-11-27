@@ -5,7 +5,7 @@
              Title="DetalleProductoPage">
     <VerticalStackLayout>
 
-            <Image Source="dotnet_bot.png"
+            <Image Source="ViniloLogo.jpg"
            HorizontalOptions="Center"
            HeightRequest="200"/>
             <Label x:Name="Nombre"
@@ -30,7 +30,8 @@
             <Button Text="Eliminar"
                     HorizontalOptions="FillAndExpand"
                     Margin="5"
-                    BackgroundColor="Red"
+                    BackgroundColor="Black"
+                    TextColor="FloralWhite"
                     FontSize="20"
                     Clicked="ClickEliminarProducto">
                 
@@ -38,8 +39,8 @@
             <Button Text="Editar"
                     HorizontalOptions="FillAndExpand"
                     Margin="5"
-                    BackgroundColor="Orange"
-                    TextColor="Black"
+                    BackgroundColor="Purple"
+                    TextColor="FloralWhite"
                     FontSize="20"
                     Clicked="ClickEditarProducto">
 

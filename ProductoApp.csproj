@@ -49,8 +49,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Resources\Images\descarga.png" />
-	  <None Remove="Resources\Images\peluches.jpg" />
+	  <None Remove="Resources\Images\Sunshine.png" />
+	  <None Remove="Resources\Images\ViniloLogo.jpg" />
+	  <None Remove="Resources\Images\VinilosPrincipal.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>

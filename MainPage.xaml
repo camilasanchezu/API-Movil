@@ -10,21 +10,21 @@
             VerticalOptions="Center">
 
             <Image
-                Source="descarga.png"
+                Source="VinilosPrincipal.jpg"
                 SemanticProperties.Description="My Melody"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="¡Bienvenido a Kuomi!"
+                Text="¡Bienvenido a la Tienda de Vinilos!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Programacion IV"
+                Text="Tienda de Música"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Tienda de peluches"
+                SemanticProperties.Description="Vinilos"
                 FontSize="18"
                 HorizontalOptions="Center" />
 
